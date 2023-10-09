@@ -165,6 +165,7 @@ h1:hover {
 
 .name {
   color: hsl(0, 0%, 100%);
+  cursor: pointer;
 }
 
 .name:hover {
